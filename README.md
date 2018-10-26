@@ -41,7 +41,7 @@
 : 이미지 기반 컨텐츠를 관리하는 객체로서 애니메이션 효과, 계층구조, 모양, 내용 등과 관련한 작업을 할 수 있습니다.
 
 ### 첨부파일
-![Step2 Demo](CaptureImage/Step2Demo.mov)
+![Step2 Demo](CaptureImage/Step2Demo.gif)
 
 # Step3
 > UserDefault 와 Arching 을 이용한 데이터 저장
@@ -56,7 +56,7 @@
     - Foreground & becomeActive 에서 불러 오면 쓰기 함수가 중복되어 불러 와서 그런지 버튼이 동작하지 않음
     - 따라서 입 처음 실행될 때(application) 쓰기 함수 추가 , 또한 application이 아닌 다른 곳에 적용하면 앱 실행 시 버튼 누르기 전까지는 수량이나 잔돈이 화면에 표시되지 않음
 
-![Step3 Demo](CaptureImage/Step3Demo.mov)
+![Step3 Demo](CaptureImage/Step3Demo.gif)
 
 # Step4
 > VendingMachine 싱글톤 객체로 변경
@@ -128,7 +128,7 @@
 4. NotificationCenter 의 userinfo 를 이용하여 선택된 음료 객체 전달
 5. HistoryList를 이용하여 구매 목록 복원하기
 
-![Step6 Demo](CaptureImage/Step6Demo.mov)
+![Step6 Demo](CaptureImage/Step6Demo.gif)
 
 # Step7
 > 관리자 화면 추가
